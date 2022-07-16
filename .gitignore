@@ -16,6 +16,7 @@ website/.next
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
+!chakra-ui-steps/dist
 .idea
 .DS_Store
 *.suo
